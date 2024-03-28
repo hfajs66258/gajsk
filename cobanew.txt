@@ -1,9 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:0
-#EXT-X-ALLOW-CACHE:YES
-#EXT-X-TARGETDURATION:10
-EXTINF:10.846444
 #EXTINF:-1,Al Kass Sports 2
 http://www.elahmad.com/tv/m3u8/alkass.m3u8?id=alkass2
 
