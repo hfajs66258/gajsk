@@ -20,7 +20,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 #EXTINF:27,tvg-name="TRANS 7" tvg-logo="https://hometv.pw/logo/lokal/trans7.png" group-title="CHANEL TV INDONESIA",TRANS 7
 https://filmovie.github.io/by/trans7.m3u8
 
-#EXTINF:28,NET HD 
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="CHANEL TV INDONESIA",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a00d/index.m3u8
+
+#EXTINF:28,tvg-name="NET TV HD" tvg-logo="https://hometv.pw/logo/lokal/nettv.png" group-title="CHANEL TV INDONESIA",NET TV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
@@ -32,7 +36,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:60,RTV SD 
+#EXTINF:60, tvg-name="RTV SD" group-title="CHANEL TV INDONESIA",BTVN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://210.210.155.37/session/01ec4c78-827b-11ee-93b3-aa38b7050ceb/uq2663/h/h10/02.m3u8
 
@@ -62,7 +66,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1325163276_b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h237/02.m3u8
 
-#EXTINF:28,BNTV HD 
+#EXTINF:28,tvg-name="BTVN HD" group-title="CHANEL TV INDONESIA",BTVN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
 
@@ -83,39 +87,31 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
 #####MOVIE#####
 
-#EXTINF:28,CELESTIAL MOVIES HD 
+#EXTINF:28,tvg-name="CELESTIAL MOVIES HD" group-title="MOVIE",CELESTIAL MOVIES HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h212/02.m3u8
 
-#EXTINF:28,ROCK ACTION HD 
+#EXTINF:28,tvg-name="ROCK ACTION HD" group-title="MOVIE",ROCK ACTION HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h218/02.m3u8
 
-#EXTINF:28,ROCK ENTERTAINMENT HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h213/02.m3u8
-
-#EXTINF:28,TVN MOVIES HD 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
-
-#EXTINF:28,Thrill HD 
+#EXTINF:28,tvg-name="Thrill HD" group-title="MOVIE",Thrill HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h240/02.m3u8
 
-#EXTINF:28,MCE HD 
+#EXTINF:28,tvg-name="MCE HD" group-title="MOVIE",MCE HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h208/02.m3u8
 
-#EXTINF:28,HITS MOVIES HD 
+#EXTINF:28,tvg-name="HITS MOVIES HD" group-title="MOVIE",HITS MOVIES HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h206/02.m3u8
 
-#EXTINF:28,HITS HD 
+#EXTINF:28,tvg-name="HITS HD" group-title="MOVIE",HITS HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h205/02.m3u8
 
-#EXTINF:28,CINEMAWORLD HD 
+#EXTINF:28,CINEMAWORLD HD tvg-name="CINEMAWORLD HD" group-title="MOVIE",CINEMAWORLD HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
 
@@ -126,11 +122,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h203/02.m3u8
 
 #####RELIGI#####
 
-#EXTINF:24,BTV HD 
+#EXTINF:24,tvg-name="BTV HD" group-title="RELIGI",BTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 
-#EXTINF:28,BNTV HD 
+#EXTINF:28,tvg-name="BNTV HD" group-title="RELIGI",BNTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
 
@@ -139,21 +135,25 @@ http://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
 
 #####KOREAN CHANEL#####
 
-#EXTINF:28,TVN HD 
+#EXTINF:28,tvg-name="TVN HD" group-title="KOREAN CHANEL",TVN HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h215/02.m3u8
 
-#EXTINF:28,K+ HD 
+#EXTINF:28,tvg-name="K+ HD" group-title="KOREAN CHANEL",K+ HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h219/02.m3u8
 
-#EXTINF:28,CCM HD 
+#EXTINF:28,tvg-name="CCM HD" group-title="KOREAN CHANEL",CCM HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h239/02.m3u8
 
-#EXTINF:28,KIX HD 
+#EXTINF:28,tvg-name="KIX HD" group-title="KOREAN CHANEL",KIX HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h220/02.m3u8
+
+#EXTINF:28,tvg-name="TVN MOVIES HD" group-title="KOREAN CHANEL",TVN MOVIES HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h214/02.m3u8
 
 
 #####SPORT#####
