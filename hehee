@@ -15,10 +15,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 #EXTINF:0,tvg-name="TRANS TV" tvg-logo="https://hometv.pw/logo/lokal/transtv.png" group-title="CHANEL TV INDONESIA",TRANS TV
 https://filmovie.github.io/by/transtv.m3u8
 
-#EXTINF:-1 group-title="CHANEL TV INDONESIA" tvg-logo="https://i.ibb.co/XYH1m9q/mentaritv.png", MENTARI TV
-http://iptvtree.net:8080/c4596f70/c3848d92/298546
-#EXTINF:-1 group-title="CHANEL TV INDONESIA" tvg-logo="https://i.ibb.co/XYH1m9q/mentaritv.png", MENTARI TV
-http://103.226.232.196:8000/play/a007/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/200px-Mentari_TV.svg.png" group-title="CHANEL TV INDONESIA", MENTARI TV 1
+http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298546
 
 #EXTINF:-1 group-title="CHANEL TV INDONESIA" tvg-logo="https://i.imgur.com/vbV0KKG.jpg", Vision Prime
 #EXTVLCOPT:http-referrer=https://m.rctiplus.com/
