@@ -154,3 +154,14 @@ https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 #EXTINF:-1 tvg-name="SPO TV 2" tvg-logo="https://i.ibb.co/85XFV75/Spotv-2-hometv.jpg" group-title="SPORTS ID",SPO TV 2 (V+)
 https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/18/d4/XWnNAq9y_o.jpg", tvg-id="" group-title="SPORTS ID", Optus Sport 1 | event only
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3309
+
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/d7/c9/oMB8SAGF_o.jpg", tvg-id="" group-title="SPORTS ID", Optus Sport 2 | event only
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3310
+
+#EXTINF:-1 tvg-logo="https://images2.imgbox.com/bc/cf/yAHGQZOg_o.jpg", tvg-id="" group-title="SPORTS ID", Optus Sport 3 | event only
+#EXTVLCOPT:http-user-agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+http://103.127.96.91:25461/hometv@91/Wdk8VzyYTG/3311
