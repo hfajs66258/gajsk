@@ -38,6 +38,11 @@ https://sonar.ytlive.workers.dev/stream/UC5BMIWZe9isJXLZZWPWvBlg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7h64QQ4BiYLnlNzoFEQ9MS0.png" group-title="CHANEL TV INDONESIA",SCTV
 http://210.210.155.37/uq2663/h/h217/01.m3u8
 
+#EXTINF:0,tvg-name="SCTV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7h64QQ4BiYLnlNzoFEQ9MS0.png" group-title="CHANEL TV INDONESIA",SCTV 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PhMML9G/nusantara-tv-6e9626.png" group-title="CHANEL TV INDONESIA",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
