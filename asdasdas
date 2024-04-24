@@ -38,7 +38,7 @@ https://sonar.ytlive.workers.dev/stream/UC5BMIWZe9isJXLZZWPWvBlg/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7h64QQ4BiYLnlNzoFEQ9MS0.png" group-title="CHANEL TV INDONESIA",SCTV
 http://210.210.155.37/uq2663/h/h217/01.m3u8
 
-#EXTINF:-1 tvg-logo="https://big-taco-1img.bunkr.ru/20231022_190354-duqCAStK.png?download=true" group-title="CHANEL TV INDONESIA",Nusantara TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PhMML9G/nusantara-tv-6e9626.png" group-title="CHANEL TV INDONESIA",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/chunks.m3u8
 
 #EXTINF:-1 tvg-name="GARUDA TV" tvg-id="" group-title="CHANEL TV INDONESIA" tvg-logo="https://i-milkshake.bunkr.ru/20231027_131137-9ffCtzzx.png?download=true",GARUDA TV
@@ -49,7 +49,7 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 #EXTVLCOPT:http-user-agent=spy-ber/1.0
 http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=NET
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Tbd8LXw/inspira.jpg" group-title="CHANEL TV INDONESIA",Inspira Tv 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RyGpm52/th-1.png" group-title="CHANEL TV INDONESIA",Inspira Tv 
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Mentari_TV.svg/200px-Mentari_TV.svg.png" group-title="CHANEL TV INDONESIA", MENTARI TV 1
@@ -80,18 +80,18 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w472172163_b3840
 #EXTINF:26,tvg-name="CNBC INDONESIA" tvg-logo="https://hometv.pw/logo/news/cnbc_indonesia.png" group-title="CHANEL TV INDONESIA",CNBC INDONESIA
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1325163276_b384000_sleng.m3u8
 
-#EXTINF:28,tvg-name="DFC HD" group-title="CHANEL TV INDONESIA",DFC
+#EXTINF:28,tvg-name="DFC HD" tvg-logo="https://i.ibb.co/30rtrww/th.png" group-title="CHANEL TV INDONESIA",DFC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 
-#EXTINF:0 tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", group-title="CHANEL TV INDONESIA"  moji
+#EXTINF:0 group-title="DENS Tv" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", moji
 #http://210.210.155.37/x6bnqe/s/s41/index.m3u8
 
-#EXTINF:0  tvg-logo="http://www.dens.tv/images/channel-logo/106.jpg", group-title="CHANEL TV INDONESIA" TVRI Sports
+#EXTINF:0 group-title="DENS Tv" tvg-logo="http://www.dens.tv/images/channel-logo/106.jpg", TVRI Sports
 http://210.210.155.37/uq2663/h/h238/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/122.jpg" group-title="CHANEL TV INDONESIA", MAGNA Tv
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/122.jpg" group-title="DENS Tv", MAGNA Tv
 http://210.210.155.37/uq2663/h/h24/index.m3u8
