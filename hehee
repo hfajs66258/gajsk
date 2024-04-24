@@ -8,9 +8,16 @@
 
 *****CHANEL TV INDONESIA*****
 
-#EXTINF:0,tvg-name="SCTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="CHANEL TV INDONESIA",SCTV
+#EXTINF:0,tvg-name="SCTV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="CHANEL TV INDONESIA",SCTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+
+#EXTINF:-1 group-title="CHANEL TV INDONESIA",SCTV 2
+http://45.126.83.51/qwr9ew/s/s03/01.m3u8
+
+
+#EXTINF:-1 group-title="CHANEL TV INDONESIA",SCTV 3
+http://210.210.155.35/qwr9ew/s/s03/02.m3u8
 
 #EXTINF:0,tvg-name="TRANS TV" tvg-logo="https://hometv.pw/logo/lokal/transtv.png" group-title="CHANEL TV INDONESIA",TRANS TV
 https://filmovie.github.io/by/transtv.m3u8
@@ -50,9 +57,16 @@ http://103.226.232.196:8000/play/a00d/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
-#EXTINF:0,tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="CHANEL TV INDONESIA",INDOSIAR
+#EXTINF:0,tvg-name="INDOSIAR" tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="CHANEL TV INDONESIA",INDOSIAR 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+
+#EXTINF:-1 group-title="CHANEL TV INDONESIA",INDOSIAR 2
+http://210.210.155.35/qwr9ew/s/s04/01.m3u8
+
+
+#EXTINF:-1 group-title="CHANEL TV INDONESIA",INDOSIAR 3
+http://210.210.155.35/qwr9ew/s/s04/index10.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="CHANEL TV INDONESIA",INDOSIAR 2
 http://103.226.232.196:8000/play/a00l/index.m3u8
