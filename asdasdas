@@ -87,11 +87,11 @@ http://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 
-#EXTINF:0 group-title="DENS Tv" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", moji
+#EXTINF:0 tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", group-title="CHANEL TV INDONESIA"  moji
 #http://210.210.155.37/x6bnqe/s/s41/index.m3u8
 
-#EXTINF:0 group-title="DENS Tv" tvg-logo="http://www.dens.tv/images/channel-logo/106.jpg", TVRI Sports
+#EXTINF:0  tvg-logo="http://www.dens.tv/images/channel-logo/106.jpg", group-title="CHANEL TV INDONESIA" TVRI Sports
 http://210.210.155.37/uq2663/h/h238/01.m3u8
 
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/122.jpg" group-title="DENS Tv", MAGNA Tv
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/122.jpg" group-title="CHANEL TV INDONESIA", MAGNA Tv
 http://210.210.155.37/uq2663/h/h24/index.m3u8
