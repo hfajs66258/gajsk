@@ -92,8 +92,14 @@ http://op-group1-swiftservehd-1.dens.tv/h/h221/02.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 
-#EXTINF:0 tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", group-title="CHANEL TV INDONESIA" moji
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="CHANEL TV INDONESIA", MOJI 1
 #http://210.210.155.37/x6bnqe/s/s41/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1200px-Moji_blue.svg.png" group-title="CHANEL TV INDONESIA", MOJI 2
+http://iptvtree.net:8080/c4596f70/c3848d92/298550
+
+#EXTINF:-1 tvg-name="MOJI" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" group-title="CHANEL TV INDONESIA",MOJI
+https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #EXTINF:0 tvg-logo="http://www.dens.tv/images/channel-logo/106.jpg", group-title="CHANEL TV INDONESIA" TVRI Sports
 http://210.210.155.37/uq2663/h/h238/01.m3u8
@@ -829,7 +835,7 @@ https://cors-proxy.cluster.fun/https://ctrl.laotv.la/live/THD7/manifest.mpd
 #####LIGA BRI#####
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIGA BRI",LIGA BRI
-https://etslive-2-vidio-com.akamaized.net/live/205/master.m3u8
+http://103.226.232.196:8000/play/a00l/index.m3u8
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIGA BRI",LIGA BRI 1
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
