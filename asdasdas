@@ -16,16 +16,6 @@ https://filmovie.github.io/by/transtv.m3u8
 #EXTINF:-1 tvg-id="" " tvg-name="MENTARI TV"  tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7h542jshRUxaghInTPJUVY2Ty-KAMEA3NDygBqvBP9c5A.png" group-title="CHANEL TV INDONESIA",MENTARI TV
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298546
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-name="GTV" tvg-logo="https://hometv.pw/logo/lokal/gtv.png" group-title="CHANEL TV INDONESIA",GTV (V+)
-https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
-
-#EXTINF:-1 tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="CHANEL TV INDONESIA",GTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://103.226.232.196:8000/play/a00d/index.m3u8
-
 #EXTINF:-1 tvg-id="" " tvg-name="INSPIRA TV" group-title="CHANEL TV INDONESIA",INSPIRA TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
@@ -185,16 +175,43 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 
 
-#####CANAL SPORT#####
+##### DAZN ELEVEN #####
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SPORT 1" group-title="CANAL SPORT",CANAL SPORT 1
-https://cdn-nvm-chicago.lolokoko.tv/canalplussport2.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 1" group-title="DAZN ELEVEN",DAZN ELEVEN 1
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-048/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SPORT 2" group-title="CANAL SPORT",CANAL SPORT 2
-https://cdn-nvm-chicago.lolokoko.tv/canalplussport3.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 2" group-title="DAZN ELEVEN",DAZN ELEVEN 2
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-047/stream.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL SPORT 3" group-title="CANAL SPORT",CANAL SPORT 3
-https://cdn-nvm-chicago.lolokoko.tv/canalplussport4.stream/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 3" group-title="DAZN ELEVEN",DAZN ELEVEN 3
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 4" group-title="DAZN ELEVEN",DAZN ELEVEN 4
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-055/stream.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 5" group-title="DAZN ELEVEN",DAZN ELEVEN 5
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-056/stream.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 6" group-title="DAZN ELEVEN",DAZN ELEVEN 6
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-057/stream.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 7" group-title="DAZN ELEVEN",DAZN ELEVEN 7
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-058/stream.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN 8" group-title="DAZN ELEVEN",DAZN ELEVEN 8
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-059/stream.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN PRO LEAGUE 1" group-title="DAZN ELEVEN",DAZN ELEVEN PRO LEAGUE 1
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-049/stream.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN PRO LEAGUE 2" group-title="DAZN ELEVEN",DAZN ELEVEN PRO LEAGUE 2
+https://dce-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-050/stream.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN PRO LEAGUE 3" group-title="DAZN ELEVEN",DAZN ELEVEN PRO LEAGUE 3
+https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague2nl/Manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="DAZN ELEVEN PRO LEAGUE 4" group-title="DAZN ELEVEN",DAZN ELEVEN PRO LEAGUE 4
+https://tvvvideolive3.solocoo.tv/blueskytvvlive7dash/blueelevenproleague3nl/Manifest.mpd
 
 
 #####SONY SPORT#####
@@ -235,29 +252,58 @@ https://ac-009.live.p7s1video.net/c5c609cf/t_009/sport1plus-de-hd/cenc-default.m
 
 #####SCC SPORT#####
 
-#EXTINF:-1 tvg-id="" tvg-name="SCC SPORT 1" group-title="SCC SPORT",SCC SPORT 1
-https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
-
 #EXTINF:-1 tvg-id="" tvg-name="SCC SPORT 2" group-title="SCC SPORT",SCC SPORT 2
 https://ssc2-ak.akamaized.net/out/v1/a16db2ec338a445a82d9c541cc9293f9/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="SCC SPORT 3" group-title="SCC SPORT",SCC SPORT 3
+#EXTINF:-1 tvg-id="" tvg-name="SCC SPORT 2" group-title="SCC SPORT",SCC SPORT 3
 https://ssc3-ak.akamaized.net/out/v1/42e86125555242aaa2a12056832e7814/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="SCC SPORT 4" group-title="SCC SPORT",SCC SPORT 4
+#EXTINF:-1 tvg-id="" tvg-name="SCC SPORT 2" group-title="SCC SPORT",SCC SPORT 4
 https://ssc4-ak.akamaized.net/out/v1/5267ea5772874b0db24559d643eaad93/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="SCC SPORT 5" group-title="SCC SPORT",SCC SPORT 5
+#EXTINF:-1 tvg-id="" tvg-name="SCC SPORT 2" group-title="SCC SPORT",SCC SPORT 5
 https://ssc5-ak.akamaized.net/out/v1/99289eac5a7b4319905da595afbd792b/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="SCC SPORT 6" group-title="SCC SPORT",SCC SPORT 6
+#EXTINF:-1 tvg-id="" tvg-name="SCC SPORT 2" group-title="SCC SPORT",SCC SPORT 6
 https://ssc-extra1-ak.akamaized.net/out/v1/647c58693f1d46af92bd7e69f17912cb/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="SCC SPORT 7" group-title="SCC SPORT",SCC SPORT 7
+#EXTINF:-1 tvg-id="" tvg-name="SCC SPORT 2" group-title="SCC SPORT",SCC SPORT 7
 https://ssc-extra2-ak.akamaized.net/out/v1/8b70de2b70d447ba8a7450ba90926a2d/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="SCC SPORT 8" group-title="SCC SPORT",SCC SPORT 8
+#EXTINF:-1 tvg-id="" tvg-name="SCC SPORT 2" group-title="SCC SPORT",SCC SPORT 8
 https://ssc-extra3-ak.akamaized.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/index.mpd
+
+
+
+##### DUBAI SPORT #####
+
+#EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORT 1" group-title="DUBAI SPORT",DUBAI SPORT 1
+https://dmitnthfr.cdn.mgmlcdn.com/dubaisports/smil:dubaisports.stream.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORT 1" group-title="DUBAI SPORT",DUBAI SPORT 2
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DUBAI SPORT 1" group-title="DUBAI SPORT",DUBAI SPORT 3
+https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd5/smil:dubaisportshd5.smil/index.m3u8
+
+
+##### AL KASS SPORT #####
+
+#EXTINF:-1 tvg-id="" tvg-name="ALL KASS SPORT 1" group-title="ALL KASS SPORT",ALL KASS SPORT 1
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass1xtgb/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ALL KASS SPORT 2" group-title="ALL KASS SPORT",ALL KASS SPORT 2
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass2uyce/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ALL KASS SPORT 3" group-title="ALL KASS SPORT",ALL KASS SPORT 3
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass3lavbc/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ALL KASS SPORT 4" group-title="ALL KASS SPORT",ALL KASS SPORT 4
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass4xtgba/master.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="ALL KASS SPORT 5" group-title="ALL KASS SPORT",ALL KASS SPORT 5
+https://liveakgr.alkassdigital.net/hls/live/2097037/Alkass5xtgb/master.m3u8
+
 
 
 #####SKY SPORT#####
@@ -630,3 +676,76 @@ http://op-group1-swiftservehd-1.dens.tv/h/h202/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h203/02.m3u8
 
+================================= LIGA SPANYOL =============================================================================================
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/c8zcp8yihk0d59b0jhvli/Liga-spanyol.jpeg?rlkey=lvm5a9m904bjm8dkftbdgmmgh&dl=0" group-title="LIGA SPANYOL", LIVE 1
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/laliga1.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/c8zcp8yihk0d59b0jhvli/Liga-spanyol.jpeg?rlkey=lvm5a9m904bjm8dkftbdgmmgh&dl=0" group-title="LIGA SPANYOL", LIVE 2
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/laliga2.m3u8
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/c8zcp8yihk0d59b0jhvli/Liga-spanyol.jpeg?rlkey=lvm5a9m904bjm8dkftbdgmmgh&dl=0" group-title="LIGA SPANYOL", LIVE 3
+https://raw.githubusercontent.com/Arrasyid22/Playlist-IPTV/main/laliga3.m3u8
+
+
+
+======================================= LIGA ITALIA =====================================================================================
+
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/e1duuznrhw5qur2ar1cyx/Liga-italia.jpeg?rlkey=o5g32p2vh3rhd5otr3ykp6s4q&dl=0" group-title="LIGA ITALIA", LIVE 6
+http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/28945
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/e1duuznrhw5qur2ar1cyx/Liga-italia.jpeg?rlkey=o5g32p2vh3rhd5otr3ykp6s4q&dl=0" group-title="LIGA ITALIA", LIVE 7
+http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/32884
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/e1duuznrhw5qur2ar1cyx/Liga-italia.jpeg?rlkey=o5g32p2vh3rhd5otr3ykp6s4q&dl=0" group-title="LIGA ITALIA", LIVE 8
+http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/30812
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/e1duuznrhw5qur2ar1cyx/Liga-italia.jpeg?rlkey=o5g32p2vh3rhd5otr3ykp6s4q&dl=0" group-title="LIGA ITALIA", LIVE 9
+http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/30687
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/e1duuznrhw5qur2ar1cyx/Liga-italia.jpeg?rlkey=o5g32p2vh3rhd5otr3ykp6s4q&dl=0" group-title="LIGA ITALIA", LIVE 10
+http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/30463
+
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/e1duuznrhw5qur2ar1cyx/Liga-italia.jpeg?rlkey=o5g32p2vh3rhd5otr3ykp6s4q&dl=0" group-title="LIGA ITALIA", LIVE 12
+http://mohdtv.com:8880/ALLChannels48B02DEF70F4/33278896/2659
+
+
+
+##### MotoGP #####
+#EXTINF:-1 group-logo="https://i.ibb.co/hWLpsBc/motoracing.png",
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rkNv7dK/motoraceinfo.png" group-title="MotoGP", 8-11 MAR Grand Prix of Qatar
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
+https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
+
+
+#EXTINF:-1 tvg-id="Sky Sport MotoGP.it" tvg-logo="https://i.ibb.co/NVPBMds/motogepe.png" group-title="MotoGP", MotoGP
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
+https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
+
+
+#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-logo="https://i.ibb.co/NVPBMds/motogepe.png" group-title="MotoGP", MotoGP
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#EXTINF:-1 tvg-id="SPOTV2.kr" tvg-logo="https://i.ibb.co/NVPBMds/motogepe.png" group-title="MotoGP", MotoGP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
+https://cor-coran.theriumworld29.workers.dev/dash-wv/linear/5079/default.mpd
+
+#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-logo="https://i.ibb.co/NVPBMds/motogepe.png" group-title="MotoGP", MotoGP
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
+
+#EXTINF:-1tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co/NVPBMds/motogepe.png" group-title="MotoGP", MotoGP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
