@@ -16,6 +16,16 @@ https://filmovie.github.io/by/transtv.m3u8
 #EXTINF:-1 tvg-id="" " tvg-name="MENTARI TV"  tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7h542jshRUxaghInTPJUVY2Ty-KAMEA3NDygBqvBP9c5A.png" group-title="CHANEL TV INDONESIA",MENTARI TV
 http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298546
 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://hometv.pw/logo/lokal/gtv.png" group-title="CHANEL TV INDONESIA",GTV (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:-1 tvg-name="GTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/GTV_logo_%282017%29.png/1200px-GTV_logo_%282017%29.png" group-title="CHANEL TV INDONESIA",GTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://103.226.232.196:8000/play/a00d/index.m3u8
+
 #EXTINF:-1 tvg-id="" " tvg-name="INSPIRA TV" group-title="CHANEL TV INDONESIA",INSPIRA TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
