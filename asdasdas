@@ -584,17 +584,16 @@ https://cors-proxy.cluster.fun/https://cors-proxy.cluster.fun/https://dash2.anti
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIGA BRI",LIGA BRI
 http://103.226.232.196:8000/play/a00l/index.m3u8
 
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIGA BRI",LIGA BRI 1
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz 
-#EXTVLCOPT:http-referrer=https://visionplus.id 
-https://nyanv-live-cdn.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIGA BRI",LIGA BRI 2
-https://nyanv-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+#EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg" group-title="LIGA BRI",SOCCER CHANNEL (V+)
+https://melon-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NjExZWU4OTctOTdiZS0zOTQ0LWE3Y2UtYTIxZWVmODBlNjEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-name="SOCCER CHANNEL" tvg-logo="https://hometv.pw/logo/sports/soccer_channel.jpg" group-title="LIGA BRI",SOCCER CHANNEL B (V+)
+https://nyanv-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
 
 #EXTINF:0 tvg-logo="https://i.ibb.co/P1KZ7vx/bri.jpg" group-title="LIGA BRI",lIGA BRI 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
