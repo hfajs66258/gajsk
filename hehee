@@ -839,3 +839,79 @@ http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd
+
+
+```````` MotoGP ````````
+#EXTINF:-1 group-logo="https://i.ibb.co/hWLpsBc/motoracing.png",
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/rkNv7dK/motoraceinfo.png" group-title="MotoGP", 8-11 MAR Grand Prix of Qatar
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
+https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/NVPBMds/motogepe.png" group-title="MotoGP", MotoGP
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-037/stream.mpd
+
+#EXTINF:-1 tvg-id="Sky Sport MotoGP.it" tvg-logo="https://i.ibb.co/NVPBMds/motogepe.png" group-title="MotoGP", MotoGP
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0036ea2e908d4cc20ef08595da9ff991:08e1ae9fa0ee4d9ec2b194c4908613ae
+https://linear306-it-dash1-prd.selector.skycdn.it/016a/31483/FHD/skysportmotogp/master.mpd
+
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://i.ibb.co/NVPBMds/motogepe.png" group-title="MotoGP", MotoGP
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://cors-proxy.elfsight.com/https://ottb.live.cf.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://i.ibb.co/NVPBMds/motogepe.png" group-title="MotoGP", MotoGP
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0005520dcd30036b77b924cc5363cad0:ebc86cd5962affaa29593b75d73551ba
+https://linear006-ie-dash1-prd-ak.cdn.skycdp.com/016a/Content/DASH_003_720_30/Live/channel(tntsport2)/manifest_720.mpd
+
+#EXTINF:-1 tvg-id="Sky Sport Uno.it" tvg-logo="https://i.ibb.co/NVPBMds/motogepe.png" group-title="MotoGP", MotoGP
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00362452ed102000ccea64c311921dc2:02f27bd6caab7633d3083b94d3958b1c
+https://linear301-it-dash1-prd.selector.skycdn.it/016a/31023/FHD/skysportuno/master.mpd
+
+#EXTINF:-1 tvg-id="V Sport 1" tvg-logo="https://i.ibb.co/NVPBMds/motogepe.png" group-title="MotoGP", MotoGP
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=04c5eaf62cd75f2d947ab4d621f39256:76967598962e7a7314a2b251e9070725
+https://director.streaming.telia.com/tvm-packager-prod/group1/6089c17d47a23d76645ceaf4/manifest.mpd|User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0"
+
+#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-logo="https://i.ibb.co/NVPBMds/motogepe.png" group-title="MotoGP", MotoGP
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
+https://nyanv-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#EXTINF:-1 tvg-id="SPOTV2.kr" tvg-logo="https://i.ibb.co/NVPBMds/motogepe.png" group-title="MotoGP", MotoGP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5efd26da5001363b4d6fa4a9c812ad10:ed6d67d953d14b026b2602cf8846577e
+https://cor-coran.theriumworld29.workers.dev/dash-wv/linear/5079/default.mpd
+
+#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-logo="https://i.ibb.co/NVPBMds/motogepe.png" group-title="MotoGP", MotoGP
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch3300%29/index.m3u8
+
+#EXTINF:-1tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co/NVPBMds/motogepe.png" group-title="MotoGP", MotoGP
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0aeffa7753674e77b99443fac7757b8a:b8c8a462008a40aa91823e0b02e8dd31
+https://ubn-streamer1.cdn.3bbtv.com:8443/3bb/live/36/36.mpd
+
+#EXTINF:-1 tvg-id="PPTV HD.th" tvg-logo="https://i.ibb.co/NVPBMds/motogepe.png" group-title="MotoGP", MotoGP
+#EXTVLCOPT:http-referrer=https://ais-vidnt.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://49-231-34-108-rewriter.ais-vidnt.com/ais/play/origin/live/eds/V0022/DASH/V0022.mpd
