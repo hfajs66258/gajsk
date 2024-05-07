@@ -3,6 +3,11 @@
 
 #####CHANEL TV INDONESIA#####
 
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://i.ibb.co/dM0SYrN/rcti.png" group-title="CHANEL TV INDONESIA", RCTI 🇮🇩
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://liveaneviadev.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
 #EXTINF:-1 tvg-id="" " tvg-name="SCTV 1" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7h64QQ4BiYLnlNzoFEQ9MS0.png" group-title="CHANEL TV INDONESIA",SCTV 1 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
