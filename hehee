@@ -847,7 +847,6 @@ http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd
 
 #####CHANEL TV LUAR#####
 
-#EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
 #EXTINF:-1 tvg-id="" tvg-name="ABC Australia" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iBU3wp8WLxVD1yd8gFY9N6_u3aj7tn7P4YB4DsnxvS8Q.png" group-title="CHANEL TV LUAR",ABC Australia
 https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/84
