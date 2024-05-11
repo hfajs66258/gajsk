@@ -842,3 +842,290 @@ http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-056/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 http://dcf-ac-live.cdn.indazn.com/dashdrm/dazn-linear-057/stream.mpd
+
+
+
+#####CHANEL TV LUAR#####
+
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="" tvg-name="ABC Australia" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iBU3wp8WLxVD1yd8gFY9N6_u3aj7tn7P4YB4DsnxvS8Q.png" group-title="CHANEL TV LUAR",ABC Australia
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/84
+#EXTINF:-1 tvg-id="" tvg-name="ADI TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gXhwE6hvjZNJ_2M91UAASM.png" group-title="TV Daerah",ADI TV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/142
+#EXTINF:-1 tvg-id="" tvg-name="Al Jazeera" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jtJFyxN5pNtehmG39OacXllCLqi9wRs305Ho_1TPxYgQ.png" group-title="CHANEL TV LUAR",Al Jazeera
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/85
+#EXTINF:-1 tvg-id="" tvg-name="Anhui TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gtrKvn8ve1DD3FdhK3dRV_sxHGX-XnVuvisY7bbFXniw.png" group-title="Movies",Anhui TV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/40
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hPLEs_nMyKd_ZS4cLhXQARvtoPx83LAikGzhFT05-5aQ.png" group-title="Education",Animal Planet
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/112
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jCd5Rzodv1ICT8DGF28PS9.png" group-title="Kids",Animax
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/35
+#EXTINF:-1 tvg-id="" tvg-name="Aniplus" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gQZp_jWYydw8EnTcOgL8EC4qepdHW4Ls23LdhvyN7Xvw.png" group-title="Kids",Aniplus
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/36
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jVUjbp9IzN-bToHy8mdUwy.png" group-title="CHANEL TV LUAR",ANTV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/15
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gDvpSsndmOZKQuX8i_vdF6b69vL7NjIVuCJtEkdRqWow.png" group-title="Entertainment",Arirang
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/95
+#EXTINF:-1 tvg-id="" tvg-name="Asia Food Network" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gsl0duVr7plLsvfZ_1lQkHP9hCQktKvU24AKZ5RShPJA.png" group-title="Entertainment",Asia Food Network
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/99
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gKbpFX2cd8P_b6Hp5fQ94P.png" group-title="Movies",AXN
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/24
+#EXTINF:-1 tvg-id="" tvg-name="Baby TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hvElG72X1J6n0DV72OKPLf.png" group-title="Kids",Baby TV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/31
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hFmmMOeSO3K_nA4exT7k7hWDRHDuCPXQY1Z7HALRH6ug.png" group-title="Education",BBC Earth
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/109
+#EXTINF:-1 tvg-id="" tvg-name="BBC World CHANEL TV LUAR" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7ifOnMYftzRCUERGvrLpK9lJWme3gemSe-EwXe-fnZ9EA.png" group-title="CHANEL TV LUAR",BBC World CHANEL TV LUAR
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/88
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPorts 1" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7isk_4PtUZDXy1TlEW4xkU09SbY5ylMBpy-705sF5iDqg.png" group-title="CHANEL TV LUAR",beIN CHANEL TV LUAR 1
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/70
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPorts 2" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7j_pkDvvQIe7TbERsxJkohSkjTbuJJ3nI-kzLBDOJfN0Q.png" group-title="CHANEL TV LUAR",beIN CHANEL TV LUAR 2
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/63255
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPorts 3" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jdpHlknDxb7jwQ4sMTMoEvSAHxQpWJPu_aAePSTV4CtA.png" group-title="CHANEL TV LUAR",beIN CHANEL TV LUAR 3
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/69
+#EXTINF:-1 tvg-id="" tvg-name="Bloomberg" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jI3716No-SdZmOZSbsqRxW34YMtxAAHdf5wnN04axYmg.png" group-title="CHANEL TV LUAR",Bloomberg
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/87
+#EXTINF:-1 tvg-id="BN CHANNEL" tvg-name="BN Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jE2U9x5GhUJijGx8lUrI-TYtrtyZSLRTmooXd5ie936w.png" group-title="CHANEL TV LUAR",BN Channel
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/23
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hLemFI25fQ86Lwr46ZGnsIeENl5ZZ5iWeVYtlnQXMXQA.png" group-title="Kids",Boomerang
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/37
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="CHANEL TV LUAR",BTV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/324658
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jyEGekbxftQkeP7Lw-Vc8DlHefUg8plAjbUGpCW0kItA.png" group-title="Kids",Cartoon Network
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/34
+#EXTINF:-1 tvg-id="" tvg-name="CBeeBies" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7icXWPyzURSK0RNTb-ktmnphlHf-kbVPKhAA8YcVsbRRw.png" group-title="Kids",CBeeBies
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/29
+#EXTINF:-1 tvg-id="" tvg-name="Celestial Classic Movies" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hfknwDC2Qge9aQjRwlplmBlJLjBxe4415M-dQxSgRTqQ.png" group-title="Movies",Celestial Classic Movies
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/41
+#EXTINF:-1 tvg-id="Celestial Movies - [Channel 20].id" tvg-name="Celestial Movies" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jfVOVVW-1I4kv4MiPhFZHTV4pEghkhH6nBJ5jGp7KyJQ.png" group-title="Movies",Celestial Movies
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/56
+#EXTINF:-1 tvg-id="" tvg-name="CGTN" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jH6FMoVC06ZmBBR_FkaoK0.png" group-title="CHANEL TV LUAR",CGTN
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/79
+#EXTINF:-1 tvg-id="" tvg-name="Channel 8" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gEd-B8NjnxI_CEFACMvLnrWfNDYXQkJiYLetGH28sJrw.png" group-title="CHANEL TV LUAR",Channel 8
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/137
+#EXTINF:-1 tvg-id="" tvg-name="Channel CHANEL TV LUAR Asia" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hyyuU9-ktsxZdBSyflkt9EHDQHvz1HwWViuRbkllSHKw.png" group-title="CHANEL TV LUAR",Channel CHANEL TV LUAR Asia
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/80
+#EXTINF:-1 tvg-id="" tvg-name="Channel U" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jMAZXvKphwDe7ioPLCihzRVvm5VHt2oDlOqwQ14Aoc-A.png" group-title="CHANEL TV LUAR",Channel U
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/138
+#EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7h5VArsO4KiANUx9hd1zElrnDZp9FhE0EZ_WrJUXQFhsQ.png" group-title="Movies",Cinema World
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/51
+#EXTINF:-1 tvg-id="" tvg-name="Cinemachi Kids" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7j4D9Ks3_1wxXP1zO0OfJdazPX_LXUyoqrpYdpMmJQu2Q.png" group-title="Kids",Cinemachi Kids
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/322215
+#EXTINF:-1 tvg-id="CINEMACHI MAX - [Channel 10].id" tvg-name="Cinemachi Max" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gC6Va9DtwdA4-j9JRfbMS1KiZFsWvJDj3bIpiG6kpZjg.png" group-title="Movies",Cinemachi Max
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/322216
+#EXTINF:-1 tvg-id="CINEMACHI - [Channel 7].id" tvg-name="Cinemachi TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gYVqryB-aMgw97tNbiT7WmecAy-Nm38_s5Bf6e3ElEbw.png" group-title="Movies",Cinemachi TV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/322217
+#EXTINF:-1 tvg-id="CINEMACHI XTRA HD - [Channel 405].id" tvg-name="Cinemachi XTRA" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hVIQTknJQfPnVGLOXomZ56ETI-vysK5sAUiE-dcJAwqA.png" group-title="Movies",Cinemachi XTRA
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/322218
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7i_3raLvAHO5caeXvQdFPKKWaCP-KaQJDqjEN76eZOm0w.png" group-title="Movies",Cinemax
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/45
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Asia" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7imbrR7m6L0LqmEUkH9NfCmzIurwSBjWcA4A_3pl-ecZA.png" group-title="CHANEL TV LUAR",CNBC Asia
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/81
+#EXTINF:-1 tvg-id="CNBC - [Channel 337].id" tvg-name="CNBC Indonesia" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gHaYzqzZUmT2GLtMq6SzW-5RvUtpjVpPSUp7Uzp5gK_Q.png" group-title="CHANEL TV LUAR",CNBC Indonesia
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/3
+#EXTINF:-1 tvg-id="CNN INDONESIA HD" tvg-name="CNN Indonesia" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7g2r762iexWiwM-j24VmcUsRG6E6M4lv3CpKgZaqPq7fg.png" group-title="CHANEL TV LUAR",CNN Indonesia
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/4
+#EXTINF:-1 tvg-id="" tvg-name="CNN International" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7j0YlAskQ9Sb2Q4IeIzZrdSpecxhFizf8_280ttRKvKdA.png" group-title="CHANEL TV LUAR",CNN International
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/82
+#EXTINF:-1 tvg-id="" tvg-name="Crime & Investigation" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iEpvkz_lYEkdZgBgbdtCk_DPZSV-Zr2BzWzkhMTm7s4A.png" group-title="Entertainment",Crime & Investigation
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/93
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 1" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7guM7tplN0FSOKDWg64BaT2.png" group-title="VIP CHANEL TV LUAR",Dazn 1
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/131
+#EXTINF:-1 tvg-id="" tvg-name="Dazn 2" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hiU4FWp75X6F65FNK7mzoE.png" group-title="VIP CHANEL TV LUAR",Dazn 2
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/132
+#EXTINF:-1 tvg-id="" tvg-name="Dazn F1" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jHG1cYquuzEtKRNpiu7cZN.png" group-title="VIP CHANEL TV LUAR",Dazn F1
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/133
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Asia" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7g9AnYQkNkp4HOsvg7SgNNT8XL28G-fChBSq28qjo5tcg.png" group-title="Education",Discovery Asia
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/111
+#EXTINF:-1 tvg-id="" tvg-name="Discovery Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jS2qgSnJP387dVubqtz05hvywIlrBfo74SEpBe3BwmCw.png" group-title="Education",Discovery Channel
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/114
+#EXTINF:-1 tvg-id="" tvg-name="DW" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gnlo8-tN-NzeHezP8Viw7k.png" group-title="CHANEL TV LUAR",DW
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/78
+#EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iqixo7w-aIVQZpy_4eIohsJqCHYhNa05uTa0HZxZR8iA.png" group-title="CHANEL TV LUAR",Euronews
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/77
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 1" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jCO5g0_fg1pNQkHvXMrjmcfphcMS9eS_4NJnGzCt_R6Q.png" group-title="CHANEL TV LUAR",Eurosport 1
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/135
+#EXTINF:-1 tvg-id="" tvg-name="Eurosport 2" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jwDrnPG9L4gjnRrtECRYkCkLAQXlmM1SILv4GcLJqvgw.png" group-title="CHANEL TV LUAR",Eurosport 2
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/136
+#EXTINF:-1 tvg-id="" tvg-name="EWTN" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7ghLGyTJI0JLxRYokukD07B.png" group-title="Religi",EWTN
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/115
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gG8uNsZb6vVM72flkKeCRKvsAlTIDS7yfjUcUa9svIEQ.png" group-title="Entertainment",Fashion TV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/102
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV Midnight Secret" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7j8_gNAxRM2Wt_M9-gJ37mH7syUVuDb1apjCIq2CARieqvPgZKrPhp2f4GtjEGP-rk.png" group-title="Entertainment",Fashion TV Midnight Secret
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/101
+#EXTINF:-1 tvg-id="" tvg-name="Fight CHANEL TV LUAR" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iLAisxYBUT5B1EDhKE0ZKei1iPj3GsPULpyER0Pd-hpg.png" group-title="CHANEL TV LUAR",Fight CHANEL TV LUAR
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/62
+#EXTINF:-1 tvg-id="FMN - [Channel 150].id" tvg-name="FMN Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gQe00FNH8Zjkojta9sSuRnJ6EJk_fC_cJ-ut2xQbADDg.png" group-title="Movies",FMN Channel
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/54
+#EXTINF:-1 tvg-id="" tvg-name="Fox CHANEL TV LUAR" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7i5VkenvvrlPO5bAcCrLCZ1Jlfuz-5B0ianjdklbAKbVA.png" group-title="CHANEL TV LUAR",Fox NEWS
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/83
+#EXTINF:-1 tvg-id="" tvg-name="France24" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iDj6QE7UKcHF2YTYLmZHtex4vNnyXaqYyD9syChSDDlA.png" group-title="CHANEL TV LUAR",France24
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/76
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gJwI-_L7iQJVAph3O8-CJ0.png" group-title="Movies",Galaxy
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/43
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hS5xqAC_aHETcMmcugKBZVQvv7JCbZCNhWXTcFKoOZkg.png" group-title="Movies",Galaxy Premium
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/42
+#EXTINF:-1 tvg-id="GTV HD - [Channel 431].id" tvg-name="GTV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gz7sgY8vIm42PoXELLkacl.png" group-title="CHANEL TV LUAR",GTV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/11
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gtrbGp4zGyCgIqHxl5KxzW.png" group-title="Movies",HBO
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/25
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iI6Njw2amxMq-AA4yqSLnlCbE1XPmkpYbESLPdeYahNA.png" group-title="Movies",HBO Family
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/26
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hDiMxmwL108I_d6CjWSRdLlK-K88hx-0PAxYD9uYVh1g.png" group-title="Movies",HBO Hits
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/27
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jZU5-lE5JTyTGG6GPJarODLPKAmeElZHfyEGBK8oNrrA.png" group-title="Movies",HBO Signature
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/28
+#EXTINF:-1 tvg-id="" tvg-name="HGTV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gH6a3UQ-U9jsQkiYVmqLvN.png" group-title="Entertainment",HGTV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/103
+#EXTINF:-1 tvg-id="" tvg-name="History" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7io03_xXZAb6yXBWtTLCy84MluFj7Vg5XP8jjMCXZ8rXg.png" group-title="Education",History
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/113
+#EXTINF:-1 tvg-id="HITS - [Channel 160].id" tvg-name="HITS" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7i_Mt7yBz8rUKlb3tXiP6R0.png" group-title="Movies",HITS
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/53
+#EXTINF:-1 tvg-id="HITS MOVIES HD - [Channel 409].id" tvg-name="HITS Movies" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gWWx3ZdVCy46lWLHgvQXe8aTIfU-DQtgEVbptjjzf5fA.png" group-title="Movies",HITS Movies
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/47
+#EXTINF:-1 tvg-id="" tvg-name="Hunan TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gOt33P5hTDc61GjBH8syyRynPZVhBzx6nWg3zBOdRDpA.png" group-title="Movies",Hunan TV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/39
+#EXTINF:-1 tvg-id="IMC - [Channel 14].id" tvg-name="IMC" tvg-logo="" group-title="Movies",IMC
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/324042
+#EXTINF:-1 tvg-id="Indosiar - [Channel 78].id" tvg-name="Indosiar" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jdcPBDFes7jtXIBo-MNqwqt1MPXuVFEm4QDZ24pjgQvw.png" group-title="CHANEL TV LUAR",Indosiar
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/74
+#EXTINF:-1 tvg-id="iCHANEL TV LUAR HD - [Channel 433].id" tvg-name="iCHANEL TV LUAR" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gCsO98PaqVNgxfG_rzlkh9.png" group-title="CHANEL TV LUAR",iCHANEL TV LUAR
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/12
+#EXTINF:-1 tvg-id="" tvg-name="Jiangsu TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iscxSapankxY3TtLZlfNYegNl0nGv-8e0D22Bg_Ix8_w.png" group-title="Movies",Jiangsu TV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/38
+#EXTINF:-1 tvg-id="JAKTV - [Channel 113].id" tvg-name="JTV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gh-gr8lUczbSRTmBlPAiCKYXP2Q135j_Hnz5Hxo_88Lw.png" group-title="CHANEL TV LUAR",JTV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/73
+#EXTINF:-1 tvg-id="" tvg-name="K+" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iPWAkWu7oiEMHmZgG9o3BX.png" group-title="Movies",K+
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/46
+#EXTINF:-1 tvg-id="" tvg-name="KBS World" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7joKEJJNuzUx4JA7r6zuUHvYBhRM8xSBtCVnQE6waA3lg.png" group-title="Entertainment",KBS World
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/96
+#EXTINF:-1 tvg-id="" tvg-name="Kids TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7g2SfeeAuIF_ZFw4tGd9vSx.png" group-title="Kids",Kids TV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/30
+#EXTINF:-1 tvg-id="KIX - [Channel 161].id" tvg-name="KiX" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hNeqc0mGGVeD7gpBRVbgQp.png" group-title="Movies",KiX
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/52
+#EXTINF:-1 tvg-id="Kompas TV - [Channel 106].id" tvg-name="Kompas TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7g-THB7h7BUnHGfpSiUnN7ogmaFhcRrt9gehyZ76jvAEg.png" group-title="CHANEL TV LUAR",Kompas TV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/9
+#EXTINF:-1 tvg-id="" tvg-name="Lifetime" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jrUGonlZa60VUHuEH-fB4dJgrIRhIVoV-SVbphKowd3Q.png" group-title="Entertainment",Lifetime
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/97
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iX8dS_iLSGC4B3JaPG52KHlPdc5vEyzYFljT2wr4eSGw.png" group-title="Education",Love Nature
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/110
+#EXTINF:-1 tvg-id="MAGNA CHANNEL" tvg-name="Magna Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hh3A6kFmTSKp14c8geDsujAdQtwUvUHIIgAf351m_5bA.png" group-title="CHANEL TV LUAR",Magna Channel
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/22
+#EXTINF:-1 tvg-id="MENTARI HD" tvg-name="Mentari" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7h542jshRUxaghInTPJUVY2Ty-KAMEA3NDygBqvBP9c5A.png" group-title="CHANEL TV LUAR",Mentari
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/7
+#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" tvg-name="Metro TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hHfCfjB6SaLNKHniaNLCLKM-3-PPQsGMtaNsXl3KTrYw.png" group-title="CHANEL TV LUAR",Metro TV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/21
+#EXTINF:-1 tvg-id="" tvg-name="MNC SPorts 1" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7ir42X1odqXSadtcPggHN1PixbuuX60dI-sHVeOyjTLOg.png" group-title="CHANEL TV LUAR",MNC CHANEL TV LUAR 1
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/60
+#EXTINF:-1 tvg-id="" tvg-name="MNC SPorts 2" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gK1Xe9Jl_pbUsGAMM2ryWaBxwZCSlLXs6ZCvVWYMLgfA.png" group-title="CHANEL TV LUAR",MNC CHANEL TV LUAR 2
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/57
+#EXTINF:-1 tvg-id="" tvg-name="MNC SPorts 3" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hLI9b_oyw02DUSNi1l4EU8wcgr7TkZlzEp7t6uIjR8Pg.png" group-title="CHANEL TV LUAR",MNC CHANEL TV LUAR 3
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/59
+#EXTINF:-1 tvg-id="MNCTV HD - [Channel 432].id" tvg-name="MNC TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iTqZk-4bTGEnyfjCYUR-Hx.png" group-title="CHANEL TV LUAR",MNC TV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/10
+#EXTINF:-1 tvg-id="ABC Australia - [Channel 350].id" tvg-name="Moji" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7igYlYkhxSExeSEmN3f-bgi.png" group-title="CHANEL TV LUAR",Moji
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/6
+#EXTINF:-1 tvg-id="" tvg-name="MTV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iu4fF9thGJ0KJ4JbQpUYrj.png" group-title="Music",MTV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/108
+#EXTINF:-1 tvg-id="" tvg-name="Muadz TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jbxc-JAcAvsPveIbfEonHkOEaNAFTQIxQb03ocp-f_wA.png" group-title="Religi",Muadz TV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/118
+#EXTINF:-1 tvg-id="" tvg-name="Music TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7idXoDwRmMtE9Aue8IaSprlDi5FircTDGUpoLP9I5rgpA.png" group-title="Music",Music TV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/106
+#EXTINF:-1 tvg-id="My Cinema Asia - [Channel 17].id" tvg-name="My Cinema Asia" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iX6hn3cogLP3TdRRyg1YSKdjadfokOiCn2MzfCGplF7A.png" group-title="Movies",My Cinema Asia
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/322222
+#EXTINF:-1 tvg-id="My Family - [Channel 15].id" tvg-name="My Family Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gElzWtn6D1imOXjZv0xPkg2twWf2_aguUGmGCAZLMgwA.png" group-title="Movies",My Family Channel
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/322223
+#EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jeqi1hSMU7PeAd9uUBEWAs.png" group-title="Kids",My Kidz
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/322224
+#EXTINF:-1 tvg-id="" tvg-name="NaDoo Korean" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7izxOMLN4yxfp_FcGxylVsjEFnQgz4MWFtH0NldfVpI5Q.png" group-title="Entertainment",NaDoo Korean
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/322225
+#EXTINF:-1 tvg-id="" tvg-name="NBA TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iYAz8MN5EGPUg02b79J-jk.png" group-title="VIP SPorts",NBA TV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/134
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" tvg-name="Net TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hmWtWvK6eSOPYBZGzRGX8V.png" group-title="CHANEL TV LUAR",Net TV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/14
+#EXTINF:-1 tvg-id="" tvg-name="NHK World" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jieG18ab-FhXRTiMmmM38MX6ekB9nBab4bArxPW89z1w.png" group-title="CHANEL TV LUAR",NHK World
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/89
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jZ9WE9ZDfDw8Uqawdqom9m.png" group-title="Kids",Nick Jr
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/32
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hf4mAzyBo5TXyYvhSaamq-ZcbWm5zVVJPP-P95JmPBHQ.png" group-title="Kids",Nickelodeon
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/33
+#EXTINF:-1 tvg-id="OK TV - [Channel 95].id" tvg-name="OKTV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iZpk9Sa4uiix0azTlCDH9f.png" group-title="CHANEL TV LUAR",OKTV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/71
+#EXTINF:-1 tvg-id="" tvg-name="One Music" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7g24uSdZkTjUJuZoLI3tmCbqChqdNvqm2TgTVynHM8cJg.png" group-title="Music",One Music
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/107
+#EXTINF:-1 tvg-id="PARAMOUNT HD - [Channel 441].id" tvg-name="Paramount Network" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7isFIM7fOiZ0QqBUru7SK5_mvpsbLGchMWDMwSrv5zuIg.png" group-title="Movies",Paramount Network
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/50
+#EXTINF:-1 tvg-id="" tvg-name="RA TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jQKdRS0oUpzEVeJVmTHAiF.png" group-title="TV Daerah",RA TV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/141
+#EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-name="RCTI" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iD6qGVZITW7PrlRCrqiju5.png" group-title="CHANEL TV LUAR",RCTI
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/13
+#EXTINF:-1 tvg-id="" tvg-name="Red Bull TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7j8NmIbtjgBnobeawVoxg1L0RCNaKr53v5FZ4-iJocbdA.png" group-title="CHANEL TV LUAR",Red Bull TV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/64
+#EXTINF:-1 tvg-id="" tvg-name="Reformed 21" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iBom_afSo2mrdNz8BYMj3ZitPhbFKArGFIZGNjCdcfCw.png" group-title="Religi",Reformed 21
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/117
+#EXTINF:-1 tvg-id="" tvg-name="Rock Action" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gGOBvK2WRm-3lrM_ZKDOkxbPn_wciqjIAk76FgVRVn8A.png" group-title="Entertainment",Rock Action
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/322220
+#EXTINF:-1 tvg-id="" tvg-name="Rock Entertainment" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iBu7HkaPuSLCNs3PxDqSjALfaTPdXwM9wc8hIVpeDOCw.png" group-title="Entertainment",Rock Entertainment
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/322221
+#EXTINF:-1 tvg-id="" tvg-name="Rodja TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hb4j_Dc8iB3ODk4FWN_ny_Y7FGWooTXKDVEc1p3EryAg.png" group-title="Religi",Rodja TV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/119
+#EXTINF:-1 tvg-id="RTV HD" tvg-name="RTV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7j9XIvWp6iMr_cQnFE_Fogh.png" group-title="CHANEL TV LUAR",RTV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/8
+#EXTINF:-1 tvg-id="" tvg-name="Russia Today" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jw7EPPWzsYjXc13L-jb_w2HmTGQLCdtCoRq-8lpulm5Q.png" group-title="CHANEL TV LUAR",Russia Today
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/86
+#EXTINF:-1 tvg-id="SCTV - [Channel 89].id" tvg-name="SCTV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7h64QQ4BiYLnlNzoFEQ9MS0.png" group-title="CHANEL TV LUAR",SCTV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/5
+#EXTINF:-1 tvg-id="" tvg-name="Soccer Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jvd0oNdc_9EP9b3VhrhQj4xA9cRaWvF8LbTrgbHZ9Kbw.png" group-title="CHANEL TV LUAR",Soccer Channel
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/61
+#EXTINF:-1 tvg-id="" tvg-name="Sony Gem" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hx_9QmtC8ZHytZqSLEbHQLfz1OBIe6snFW69_Wo6k-Tw.png" group-title="Entertainment",Sony Gem
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/105
+#EXTINF:-1 tvg-id="" tvg-name="Sony One" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gy8TvjdtOvsHBQf6xV-m6eOClSsYg5t3c32XE6QPNTrw.png" group-title="Entertainment",Sony One
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/98
+#EXTINF:-1 tvg-id="" tvg-name="SPO TV 1 ID" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7g3jolDO6NqapUymAZwCMoc.png" group-title="CHANEL TV LUAR",SPO TV 1 ID
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/66
+#EXTINF:-1 tvg-id="" tvg-name="SPO TV 1 MY" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7g3jolDO6NqapUymAZwCMoc.png" group-title="CHANEL TV LUAR",SPO TV 1 MY
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/58442
+#EXTINF:-1 tvg-id="" tvg-name="SPO TV 2 ID" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hciFe6p804pukrvM329k2j.png" group-title="CHANEL TV LUAR",SPO TV 2 ID
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/63
+#EXTINF:-1 tvg-id="" tvg-name="SPO TV 2 MY" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hciFe6p804pukrvM329k2j.png" group-title="CHANEL TV LUAR",SPO TV 2 MY
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/58443
+#EXTINF:-1 tvg-id="" tvg-name="Suria" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7hMvPAR7tP_htnHwVLhhWHU.png" group-title="CHANEL TV LUAR",Suria
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/139
+#EXTINF:-1 tvg-id="" tvg-name="Tennis Channel" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jc8EtgA_YyEsMv-bX94rq_9Mkf_Umr3d3o5hvKAwdhOQ.png" group-title="CHANEL TV LUAR",Tennis Channel
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/67
+#EXTINF:-1 tvg-id="Thrill - [Channel 19].id" tvg-name="Thrill" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gofFaIlui98OthoFI35qTV.png" group-title="Movies",Thrill
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/55
+#EXTINF:-1 tvg-id="" tvg-name="TLC" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7h5RQVYA_PjX0vEkfnoSFQK.png" group-title="Entertainment",TLC
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/100
+#EXTINF:-1 tvg-id="Trans 7 - [Channel 110].id" tvg-name="Trans 7" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jt74RPV8dEtrzojpQ6M_8o.png" group-title="CHANEL TV LUAR",Trans 7
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/1
+#EXTINF:-1 tvg-id="Trans TV - [Channel 87].id" tvg-name="Trans TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7j0w0-RJv_FxPkjakUr_CLn-cEQxBacd173AJpK_UXCvA.png" group-title="CHANEL TV LUAR",Trans TV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/2
+#EXTINF:-1 tvg-id="" tvg-name="TRT World" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7ic4Qms3XZA2QsU5BpdYF5tuwBEH9-4HCiqVwf8-pM6Rg.png" group-title="CHANEL TV LUAR",TRT World
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/75
+#EXTINF:-1 tvg-id="" tvg-name="TVKU" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gNj-GnxHawFJ-L5iLOLTYn.png" group-title="TV Daerah",TVKU
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/145
+#EXTINF:-1 tvg-id="" tvg-name="TVMU" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iSH_LiepCLaG_QUwxpwwmT.png" group-title="Religi",TVMU
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/116
+#EXTINF:-1 tvg-id="" tvg-name="TvN" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7i2LvoW2ChMRDFxKYv34Kxl.png" group-title="Entertainment",TvN
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/104
+#EXTINF:-1 tvg-id="tvN - [Channel 158].id" tvg-name="TvN Movies" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gzumxsE_hhdD9cZuz4kM-CF8o9A4kemcsL43u4R1yn_Q.png" group-title="Movies",TvN Movies
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/49
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" tvg-name="TVOne" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7i6kmdCTWkXI4s6IeiU9qCj.png" group-title="CHANEL TV LUAR",TVOne
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/19
+#EXTINF:-1 tvg-id="TVRI - [Channel 118].id" tvg-name="TVRI CHANEL TV LUAR" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jhGWKtXAIuKEq___xiVMpt.png" group-title="CHANEL TV LUAR",TVRI CHANEL TV LUAR
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/17
+#EXTINF:-1 tvg-id="" tvg-name="Vasantham" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iqYYzc_LlvBi68phWgsMbQid9K4N1XcVkvHmrOl6TPLA.png" group-title="CHANEL TV LUAR",Vasantham
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/140
+#EXTINF:-1 tvg-id="Vision Prime - [Channel 94].id" tvg-name="Vision Prime" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7iAjfBp-96o4SPV-zyHHtzJMbU0RBUaGytSCoaVSDzaKg.png" group-title="CHANEL TV LUAR",Vision Prime
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/72
+#EXTINF:-1 tvg-id="VTV HD" tvg-name="VTV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7h1icZwBQA8BXmcnbLJ3Pnr.png" group-title="CHANEL TV LUAR",VTV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/16
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7j1AFglxMc8-wmVJpXsoSk4uZ2Nq8ebjxg-8Mobb91JiA.png" group-title="Movies",Warner TV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/48
+#EXTINF:-1 tvg-id="" tvg-name="Wesal TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7g2cJyY4D9jbI6AYbAyLLXkVSfUqltnbbsBghWVK1mHpQ.png" group-title="Religi",Wesal TV
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/120
+#EXTINF:-1 tvg-id="" tvg-name="WWE Network" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7jmv14L2Wyc46NF9V9MOmuiLSQ6Y0ROF1m0u_bAOGzawA.png" group-title="CHANEL TV LUAR",WWE Network
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/65
+#EXTINF:-1 tvg-id="" tvg-name="ZeeBioskop" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7gDwdw1dYGtCOI5s3qmf3HkDlonCl06Abf-XJtLcg3dcg.png" group-title="Movies",ZeeBioskop
+https://iptv.lancartech.co.id:443/Ntsy3bN2ZF/mJWPfQRnNz/44
