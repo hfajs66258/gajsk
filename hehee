@@ -7,11 +7,14 @@
 #EXTINF:-1 tvg-id="" " tvg-name="SCTV 1" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7h64QQ4BiYLnlNzoFEQ9MS0.png" group-title="CHANEL TV INDONESIA",SCTV 1 
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
+#EXTINF:-1 tvg-id="" " tvg-name="VTV" tvg-logo="" group-title="CHANEL TV INDONESIA",VTV 
+https://flv.intechmedia.net/live/ch107.m3u8
+
 #EXTINF:-1 tvg-id="" " tvg-name="TRANS TV" tvg-name="Trans TV" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7j0w0-RJv_FxPkjakUr_CLn-cEQxBacd173AJpK_UXCvA.png" group-title="CHANEL TV INDONESIA",TRANS TV
 https://filmovie.github.io/by/transtv.m3u8
 
 #EXTINF:-1 tvg-id="" " tvg-name="MENTARI TV"  tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7h542jshRUxaghInTPJUVY2Ty-KAMEA3NDygBqvBP9c5A.png" group-title="CHANEL TV INDONESIA",MENTARI TV
-http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298546
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1 tvg-id="" " tvg-name="MENTARI TV 2"  tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7h542jshRUxaghInTPJUVY2Ty-KAMEA3NDygBqvBP9c5A.png" group-title="CHANEL TV INDONESIA",MENTARI TV 2
 https://etslive-2-vidio-com.akamaized.net/exp=1715009392~acl=/hls-p/ingest_8237_*/*~hmac=f08140eeabe05d9b479d0fa032c64495073e5654b37b89494b7771bd66d9b607/hls-p/ingest_8237_360p/index.m3u8
