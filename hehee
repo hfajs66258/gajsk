@@ -972,3 +972,137 @@ https://cctvjss.jogjakota.go.id/atcs/ATCS_mirota.stream/chunklist_w13671654.m3u8
 
 #EXTINF:-1 group-title="CCTV JOGJA" tvg-logo="",SIMPANG DEBRITTO VIEW UTARA
 https://cctvjss.jogjakota.go.id/atcs/ATCS_Simpang_DeBritto_View_Utara.stream/chunklist_w1238920415.m3u8
+
+
+#####FOX SPORT#####
+
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1280px-Fox_Sports_logo1.svg.png" group-title="FOX SPORTS" ,  Fox Sports News HD
+http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/161918
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1280px-Fox_Sports_logo1.svg.png" group-title="FOX SPORTS" ,  Fox Sports 501 FHD
+http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/50386
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1280px-Fox_Sports_logo1.svg.png" group-title="FOX SPORTS" ,  Fox Sports 502 FHD
+http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/50383
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1280px-Fox_Sports_logo1.svg.png" group-title="FOX SPORTS" ,  Fox Sports 503 FHD
+http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/50382
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1280px-Fox_Sports_logo1.svg.png" group-title="FOX SPORTS" ,  Fox Sports 504 FHD
+http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/50381
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1280px-Fox_Sports_logo1.svg.png" group-title="FOX SPORTS" ,  Fox Sports 505 FHD
+http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/50380
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1280px-Fox_Sports_logo1.svg.png" group-title="FOX SPORTS" ,  Fox Sports 506 FHD
+http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/50379
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1280px-Fox_Sports_logo1.svg.png" group-title="FOX SPORTS" ,  Fox Sports 507 FHD
+http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/50378
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1280px-Fox_Sports_logo1.svg.png" group-title="FOX SPORTS" ,  Fox Sports 502 NRL
+http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/50377
+#EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1280px-Fox_Sports_logo1.svg.png" group-title="FOX SPORTS" ,  Fox Sports 504 AFL
+http://iboxs.club:80/z8epYr5m/ZV4L5hEeIk/50397
+EXTINF:-1 tvg-id="" tvg-name="  Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="FOX SPORTS",  Fox Sports Premium
+http://jgas.in:8880/borja629089065/GntmKwf72l/33543
+#EXTINF:-1 tvg-id="" tvg-name="  Fox Sports Premium" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Fox_Sports_Premium_%28Argentina%29_-_2018_logo.png" group-title="FOX SPORTS",  Fox Sports Premium HD
+http://jgas.in:8880/borja629089065/GntmKwf72l/33544
+#EXTINF:-1 tvg-id="" tvg-name="  Fox Sports 1 SD" tvg-logo="http://swedtv.vip/logos/LAT_mexico/fox_sport1.png" group-title="FOX SPORTS",  Fox Sports 1 SD
+http://jgas.in:8880/borja629089065/GntmKwf72l/33545
+#EXTINF:-1 tvg-id="" tvg-name="  Fox Sports 1 HD" tvg-logo="http://swedtv.vip/logos/LAT_mexico/fox_sport1.png" group-title="FOX SPORTS",  Fox Sports 1 HD
+http://jgas.in:8880/borja629089065/GntmKwf72l/33546
+#EXTINF:-1 tvg-id="" tvg-name="  Fox Sports 1  FHD" tvg-logo="http://swedtv.vip/logos/LAT_mexico/fox_sport1.png" group-title="FOX SPORTS",  Fox Sports 1  FHD
+http://jgas.in:8880/borja629089065/GntmKwf72l/33547
+#EXTINF:-1 tvg-id="" tvg-name="  Fox Sports 2 SD" tvg-logo="http://swedtv.vip/logos/LAT_mexico/fox_sport2.png" group-title="FOX SPORTS",  Fox Sports 2 SD
+http://jgas.in:8880/borja629089065/GntmKwf72l/33548
+#EXTINF:-1 tvg-id="" tvg-name="  Fox Sports 2 HD" tvg-logo="http://swedtv.vip/logos/LAT_mexico/fox_sport2.png" group-title="FOX SPORTS",  Fox Sports 2 HD
+http://jgas.in:8880/borja629089065/GntmKwf72l/33549
+#EXTINF:-1 tvg-id="" tvg-name="  Fox Sports 2 FHD" tvg-logo="http://swedtv.vip/logos/LAT_mexico/fox_sport2.png" group-title="FOX SPORTS",  Fox Sports 2 FHD
+http://jgas.in:8880/borja629089065/GntmKwf72l/33550
+#EXTINF:-1 tvg-id="" tvg-name="  Fox Sports 3 SD" tvg-logo="http://swedtv.vip/logos/LAT_mexico/fox_sports3.png" group-title="FOX SPORTS",  Fox Sports 3 SD
+http://jgas.in:8880/borja629089065/GntmKwf72l/33551
+#EXTINF:-1 tvg-id="" tvg-name="  Fox Sports 3 HD" tvg-logo="http://swedtv.vip/logos/LAT_mexico/fox_sports3.png" group-title="FOX SPORTS",  Fox Sports 3 HD
+http://jgas.in:8880/borja629089065/GntmKwf72l/33552
+#EXTINF:-1 tvg-id="" tvg-name="  Fox Sports 3 FHD" tvg-logo="http://swedtv.vip/logos/LAT_mexico/fox_sports3.png" group-title="FOX SPORTS",  Fox Sports 3 FHD
+http://jgas.in:8880/borja629089065/GntmKwf72l/33553
+#EXTINF:-1 tvg-id="fox.sports.1.us" tvg-name="US090:Fox Sports Yes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1280px-Fox_Sports_logo1.svg.png" group-title="FOX SPORTS",US090:Fox Sports Yes
+http://mohdtv.com:8880/voby3857/35874579/3078
+#EXTINF:-1 tvg-id="" tvg-name="AC270:Fox Sports 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1280px-Fox_Sports_logo1.svg.png" group-title="FOX SPORTS",AC270:Fox Sports 2
+http://mohdtv.com:8880/voby3857/35874579/27648
+#EXTINF:-1 tvg-id="fox.sports.mexico.mx" tvg-name="MX081:Fox Sports 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1280px-Fox_Sports_logo1.svg.png" group-title="FOX SPORTS",MX081:Fox Sports 1 HD
+http://mohdtv.com:8880/voby3857/35874579/51377
+#EXTINF:-1 tvg-id="fox.sports.2.mexico.mx" tvg-name="MX082:Fox Sports 2 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1280px-Fox_Sports_logo1.svg.png" group-title="FOX SPORTS",MX082:Fox Sports 2 HD
+http://mohdtv.com:8880/voby3857/35874579/51376
+#EXTINF:-1 tvg-id="" tvg-name="CO049:Fox Sports 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1280px-Fox_Sports_logo1.svg.png" group-title="FOX SPORTS",CO049:Fox Sports 1
+http://mohdtv.com:8880/voby3857/35874579/51271
+#EXTINF:-1 tvg-id="" tvg-name="ARG038:FOX SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1280px-Fox_Sports_logo1.svg.png" group-title="FOX SPORTS",ARG038:FOX SPORTS 1
+http://mohdtv.com:8880/voby3857/35874579/49714
+#EXTINF:-1 tvg-id="" tvg-name="ARG039:FOX SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1280px-Fox_Sports_logo1.svg.png" group-title="FOX SPORTS",ARG039:FOX SPORTS 2
+http://mohdtv.com:8880/voby3857/35874579/49713
+#EXTINF:-1 tvg-id="" tvg-name="ARG040:FOX SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1280px-Fox_Sports_logo1.svg.png" group-title="FOX SPORTS",ARG040:FOX SPORTS 3
+http://mohdtv.com:8880/voby3857/35874579/49712
+#EXTINF:-1 tvg-id="" tvg-name="ARG041:FOX SPORTS PREMIUM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1280px-Fox_Sports_logo1.svg.png" group-title="FOX SPORTS",ARG041:FOX SPORTS PREMIUM
+http://mohdtv.com:8880/voby3857/35874579/49711
+#EXTINF:-1 tvg-id="" tvg-name="LA119:Fox Sports 2 (CL)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Fox_Sports_logo1.svg/1280px-Fox_Sports_logo1.svg.png" group-title="FOX SPORTS",LA119:Fox Sports 2 (CL)
+http://mohdtv.com:8880/voby3857/35874579/59056
+
+
+#####TNT SPORTS#####
+
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/ENG_United_Kindon_Sports/TNT_Sport_1.png" , group-title="TNT SPORTS" , TNT SPORT 1
+http://mohdtv.com:8880/voby3857/35874579/28946
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/ENG_United_Kindon_Sports/TNT_Sport_2.png" , group-title="TNT SPORTS" , TNT SPORT 2
+http://mohdtv.com:8880/voby3857/35874579/28945
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/ENG_United_Kindon_Sports/TNT_Sport_3.png" , group-title="TNT SPORTS" , TNT SPORT 3
+http://mohdtv.com:8880/voby3857/35874579/28943
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/ENG_United_Kindon_Sports/TNT_Sport_4.png" , group-title="TNT SPORTS" , TNT SPORT 4
+http://mohdtv.com:8880/voby3857/35874579/28942
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/ENG_United_Kindon_Sports/TNT_Sport_5.png" , group-title="TNT SPORTS" , TNT SPORT 5
+http://mohdtv.com:8880/voby3857/35874579/28941
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/ENG_United_Kindon_Sports/TNT_Sport_6.png" , group-title="TNT SPORTS" , TNT SPORT 6
+http://mohdtv.com:8880/voby3857/35874579/28940
+#EXTINF:-1 tvg-logo="http://swedtv.vip/logos/ENG_United_Kindon_Sports/TNT_Sport_7.png" , group-title="TNT SPORTS" , TNT SPORT 7
+http://mohdtv.com:8880/voby3857/35874579/28939
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: TNT SPORTS  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="TNT SPORTS",UK: TNT SPORTS  1
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/508184
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: TNT SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="TNT SPORTS",UK: TNT SPORTS 2
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/508186
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: TNT SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="TNT SPORTS",UK: TNT SPORTS 3
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/508187
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="UK: TNT SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="TNT SPORTS",UK: TNT SPORTS 4
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/508189
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="TNT SPORTS",UK: TNT SPORTS 5
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/508191
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="TNT SPORTS",UK: TNT SPORTS 6
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/508192
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="TNT SPORTS",UK: TNT SPORTS 7
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/508193
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="TNT SPORTS",UK: TNT SPORTS 8
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/508194
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="TNT SPORTS",UK: TNT SPORTS 9
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/508195
+#EXTINF:-1 tvg-id="tntsports10.uk" tvg-name="UK: TNT SPORTS 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="TNT SPORTS",UK: TNT SPORTS 10 HD
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/485630
+
+
+#####SporTV#####
+
+#EXTINF:-1 tvg-id="" tvg-name="  SporTV HD" tvg-logo="https://www.sportcal.com/wp-content/uploads/sites/32/2022/09/main632dd3f99c334.png" group-title="SporTV",  SporTV HD
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/610932
+#EXTINF:-1 tvg-id="" tvg-name="  SporTV HEVC" tvg-logo="https://www.sportcal.com/wp-content/uploads/sites/32/2022/09/main632dd3f99c334.png" group-title="SporTV",  SporTV HEVC
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/610933
+#EXTINF:-1 tvg-id="" tvg-name="  SporTV SD" tvg-logo="https://www.sportcal.com/wp-content/uploads/sites/32/2022/09/main632dd3f99c334.png" group-title="SporTV",  SporTV SD
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/610934
+#EXTINF:-1 tvg-id="" tvg-name="  SporTV 2 FHD" tvg-logo="https://www.sportcal.com/wp-content/uploads/sites/32/2022/09/main632dd3f99c334.png" group-title="SporTV",  SporTV 2 FHD
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/610922
+#EXTINF:-1 tvg-id="" tvg-name="  SporTV 2 HD" tvg-logo="https://www.sportcal.com/wp-content/uploads/sites/32/2022/09/main632dd3f99c334.png" group-title="SporTV",  SporTV 2 HD
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/610923
+#EXTINF:-1 tvg-id="" tvg-name="  SporTV 2 HEVC" tvg-logo="https://www.sportcal.com/wp-content/uploads/sites/32/2022/09/main632dd3f99c334.png" group-title="SporTV",  SporTV 2 HEVC
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/610924
+#EXTINF:-1 tvg-id="" tvg-name="  SporTV 2 SD" tvg-logo="https://www.sportcal.com/wp-content/uploads/sites/32/2022/09/main632dd3f99c334.png" group-title="SporTV",  SporTV 2 SD
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/610925
+#EXTINF:-1 tvg-id="" tvg-name="  SporTV 3 FHD" tvg-logo="https://www.sportcal.com/wp-content/uploads/sites/32/2022/09/main632dd3f99c334.png" group-title="SporTV",  SporTV 3 FHD
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/610926
+#EXTINF:-1 tvg-id="" tvg-name="  SporTV 3 HD" tvg-logo="https://www.sportcal.com/wp-content/uploads/sites/32/2022/09/main632dd3f99c334.png" group-title="SporTV",  SporTV 3 HD
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/610927
+#EXTINF:-1 tvg-id="" tvg-name="  SporTV 3 HEVC" tvg-logo="https://www.sportcal.com/wp-content/uploads/sites/32/2022/09/main632dd3f99c334.png" group-title="SporTV",  SporTV 3 HEVC
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/610928
+#EXTINF:-1 tvg-id="" tvg-name="  SporTV 3 SD" tvg-logo="https://www.sportcal.com/wp-content/uploads/sites/32/2022/09/main632dd3f99c334.png" group-title="SporTV",  SporTV 3 SD
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/610929
+#EXTINF:-1 tvg-id="" tvg-name="  SporTV 4 HD***" tvg-logo="https://www.sportcal.com/wp-content/uploads/sites/32/2022/09/main632dd3f99c334.png" group-title="SporTV",  SporTV 4 HD***
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/610930
+#EXTINF:-1 tvg-id="" tvg-name="  SporTV FHD" tvg-logo="https://www.sportcal.com/wp-content/uploads/sites/32/2022/09/main632dd3f99c334.png" group-title="SporTV",  SporTV FHD
+http://globalstreamz.xyz:3050/Smblackwel46/8646267297/610931
