@@ -42,6 +42,10 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://liveaneviadev.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Liputan6com_2014.png" group-title="CHANEL TV INDONESIA",Liputan 6
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
+
 
 #EXTINF:-1 tvg-id="" " tvg-name="BERITA SATU" group-title="CHANEL TV INDONESIA",BERITA SATU
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8?check
@@ -84,8 +88,9 @@ http://210.210.155.37/session/01ec4c78-827b-11ee-93b3-aa38b7050ceb/uq2663/h/h10/
 #EXTINF:-1 tvg-id="" " tvg-name="MOJI 1" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7igYlYkhxSExeSEmN3f-bgi.png" group-title="CHANEL TV INDONESIA",MOJI 1
 http://210.210.155.37/x6bnqe/s/s41/index.m3u8
 
-#EXTINF:-1 tvg-id="" " tvg-name="MOJI 2" tvg-logo="https://iptv.lancartech.co.id:443/images/mI68IlYwKuYMsxcL4ZIU8nREJeK3yvjJwmcnO5dhI7igYlYkhxSExeSEmN3f-bgi.png" group-title="CHANEL TV INDONESIA",MOJI 2
-http://iptvtree.net:8080/c4596f70/c3848d92/298550
+#EXTINF:-1 tvg-id="Moji" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://cdns.klimg.com/merdeka.com/i/w/news/2022/08/30/1467272/540x270/moji-surga-tontonan-bagi-pemirsa-olahraga-dan-anak-muda.png" group-title="CHANEL TV INDONESIA",MOJI TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://103.237.32.213:9981/stream/channelid/1756390848?profile=pass
 
 #EXTINF:-1 tvg-id="" " tvg-name="TV ONE" tvg-logo="https://i.ibb.co/qMPq4mF/783-tvone.jpg" group-title="CHANEL TV INDONESIA",TV ONE
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
